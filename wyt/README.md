@@ -1,4 +1,4 @@
-#### 项目描述
+﻿#### 项目描述
 
 此项目为Android***自动化代码，使用python+appium+pytest+allure编写，基本覆盖***Android APP全部功能，可用作回归测试，确保APP基本流程可以走通
 
@@ -26,5 +26,5 @@ python3.6、jdk1.8.0、node.js10.2.0、NET Framework4.5、sdk24.4.1、appium1.7.
 
 构建地址：<http://129.211.9.9:8080/jenkins/>       账号：admin      密码：123456
 
-Allure报告：<http://129.211.9.9:8080/jenkins/job/wyt_automation/17/allure/> 
+Allure报告：<http://129.211.9.9:8080/jenkins/job/wyt_automation_code/39/allure/> 
 
