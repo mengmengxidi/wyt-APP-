@@ -22,9 +22,5 @@ python3.6、jdk1.8.0、node.js10.2.0、NET Framework4.5、sdk24.4.1、appium1.7.
 
 测试手机为华为青春10，如相机、相册用到华为自带的APP，在其他手机执行时，部分用例会失败
 
-#### jenkins持续集成
 
-构建地址：<http://129.211.9.9:8080/jenkins/>       账号：admin      密码：123456
-
-Allure报告：<http://129.211.9.9:8080/jenkins/job/wyt_automation_code/39/allure/> 
 
